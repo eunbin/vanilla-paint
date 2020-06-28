@@ -22,6 +22,9 @@ function onMouseUp(event) {
 
 function onMouseLeave(event) {
     stopPainting();
+    //
+    //
+    
 }
 
 if (canvas) {
